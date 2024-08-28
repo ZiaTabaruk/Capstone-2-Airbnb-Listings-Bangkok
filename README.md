@@ -34,5 +34,5 @@ Namun, dengan tingginya persaingan di pasar ini, terutama dengan hotel-hotel tra
 
 ## Tableau Dashboard
 
-https://public.tableau.com/shared/6NWGM3YJT?:display_count=n&:origin=viz_share_link
+[Airbnb Listings Bangkok](https://public.tableau.com/shared/6NWGM3YJT?:display_count=n&:origin=viz_share_link) Untuk Visualiasi Menggunakan Tableau
 
