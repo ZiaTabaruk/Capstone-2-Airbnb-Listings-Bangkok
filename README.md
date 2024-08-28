@@ -1,6 +1,6 @@
 # Capstone-2-Airbnb-Listings-Bangkok
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/582b8a41-b88f-46fa-96fa-c5778e50d572)
 
 ## Latar Belakang
 
@@ -31,4 +31,7 @@ Namun, dengan tingginya persaingan di pasar ini, terutama dengan hotel-hotel tra
 3. **Memetakan Distribusi Geografis Listing Airbnb di Bangkok dan menganalisis Pengaruh Jarak ke Pusat Kota terhadap Harga Sewa Harian**
 - Mengidentifikasi dan memvisualisasikan distribusi listing Airbnb di berbagai wilayah Bangkok untuk memahami persebaran geografisnya.
 - Mengevaluasi hubungan antara jarak listing dari pusat kota dengan harga sewa harian untuk menentukan apakah lokasi geografis mempengaruhi harga listing Airbnb di Bangkok.
+
+## Tableau Dashboard
+
 
